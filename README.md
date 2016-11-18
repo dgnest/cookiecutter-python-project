@@ -1,6 +1,7 @@
-# Cookiecutter Porject Python
+# Cookiecutter Project Python
 
 <span class="badges" align="center">
+[![GitHub tag](https://img.shields.io/github/tag/dgnest/cookiecutter-python-project.svg?maxAge=2592000)](https://github.com/dgnest/cookiecutter-python-project)
 [![Build Status](https://travis-ci.org/dgnest/cookiecutter-python-project.svg)](https://travis-ci.org/dgnest/cookiecutter-python-project)
 [![GitHub issues](https://img.shields.io/github/issues/dgnest/cookiecutter-python-project.svg)](https://github.com/dgnest/cookiecutter-python-project/issues)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
